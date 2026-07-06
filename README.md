@@ -29,24 +29,40 @@ This project demonstrates hands-on implementation of Azure core services includi
 
 ## Screenshots
 
-### Virtual Network
-!VNet
+### Resource Group
+![Resource Group](RESOURCES GROUPS.png)
+
+### Virtual Network (VNet)
+![VNet Tags](VNET TAGS.png)
+![VNet Tags 2](VNET TAGS (2).png)
 
 ### Subnets
 ![Subnets](SUBNETS.png)
 
-### NSG Rules
-![NSG](INBOUND RULES.png)
+### IP Configuration
+![IP Configuration](IP CONFIGURATION.png)
 
-### Storage Containers
+### Network Security Group (NSG)
+![NSG Management](NSG MANAGEMENT.png)
+![NSG Management Alt](NSG- MANAGEMENT.png)
+![Inbound Rules](INBOUND RULES.png)
+
+### Virtual Machines
+![VM](VIRTUAL MACHINE.png)
+![VM 2](VIRTUAL MACHINE (2).png)
+![VM Resize](VM RESIZE.png)
+![VM Tags](VM TAGS.png)
+![VM Lock](VM LOCK.png)
+
+### Storage
 ![Containers](CONTAINERS.png)
-
-### File Share
 ![File Share](FILESHARE.png)
+![Disks](DISKS.png)
+![Access Keys](ACCESS KEYS.png)
+![SAS Tokens](SAS TOKENS.png)
 
-### Virtual Machine
-!(VIRTUAL MACHINE (2).png)
-
+### Auto Shutdown
+![Auto Shutdown](AUTO SHOUTDOWN.png)
 ---
 
 ## Skills Demonstrated
