@@ -33,35 +33,34 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ![Inbound Rules](screenshots/nsg/nsg-rules.png)
 
 ---
+
 ## Virtual Machines
 
-### VM Resize
+### VM Management
+![VM Overview](screenshots/vm/vm.png)
+
 ![VM Resize](screenshots/vm/VM RESIZE.png)
 
-### VM Tags
 ![VM Tags](screenshots/vm/VM TAGS.png)
 
-### VM Lock
 ![VM Lock](screenshots/vm/VM LOCK.png)
 
 ---
 
 ## Storage Services
 
-### Access Keys
+### Storage Resources
 ![Access Keys](screenshots/storage/ACCESS KEYS.png)
 
-### SAS Tokens
 ![SAS Tokens](screenshots/storage/SAS TOKENS.png)
 
 ---
 
-## Governance
+## Governance & Cost Management
 
-### Resource Groups
+### Resource Management
 ![Resource Groups](screenshots/governance/RESOURCES GROUPS.png)
 
-### Auto Shutdown
 ![Auto Shutdown](screenshots/governance/AUTO SHUTDOWN.png)
 
 ---
@@ -80,5 +79,4 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 
 ## Summary
 This project demonstrates practical experience in designing and managing Azure cloud infrastructure. It covers core services including networking, compute, storage, and security, reflecting real-world cloud engineering and DevOps practices.
-
 
