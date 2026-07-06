@@ -19,48 +19,47 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ## Networking
 
 ### Virtual Network & Subnet Configuration
-![IP Configuration](screenshots/networking/IP CONFIGURATION.png)
+![Azure virtual network IP configuration panel showing subnet address ranges and DNS settings within a network settings interface](screenshots/networking/IP CONFIGURATION.png)
 
-![Subnets](screenshots/networking/subnets.png)
+![Diagram of Azure virtual network subnets listing subnet names address prefixes and network security group assignments](screenshots/networking/subnets.png)
 
 ---
 
 ## Network Security (NSG)
 
 ### NSG Configuration & Rules
-![NSG Management](screenshots/nsg/NSG MANAGEMENT.png)
+![Azure network security group management dashboard showing security group name associated resources and created rules](screenshots/nsg/NSG MANAGEMENT.png)
 
-![Inbound Rules](screenshots/nsg/nsg-rules.png)
+![List of Azure network security group inbound rules with priority numbers source and destination ports and allowed protocols](screenshots/nsg/nsg-rules.png)
 
 ---
 
 ## Virtual Machines
 
 ### VM Management
-![VM Overview](screenshots/vm/vm.png)
+![Azure virtual machine overview panel displaying VM status size CPU memory and resource group details](screenshots/vm/vm.png)
 
 
-![VM Lock](screenshots/vm/VM LOCK.png)
+![Virtual machine lock settings screen showing resource lock type and lock notes for preventing accidental deletion or modification](![screenshots/vm/virtual machine lock.png](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/vm/virtual%20machine%20lock.png))
 
 ---
 
 ## Storage Services
 
 ### Access Keys
-![Access Keys](screenshots/storage/access keys.png)
+![Azure storage account access keys page showing key names primary and secondary key values and regenerate key options](![screenshots/storage/access keys.png](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/storage/access-keys.png))
 
 ### SAS Tokens
-![SAS Tokens](screenshots/storage/sas token.png)
+![Azure shared access signature token generation screen with expiration date permissions and token string fields](![screenshots/storage/sas token.png](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/storage/sas%20token.png))
 
 ---
 
-## Governance & Cost Management
 
 ### Resource Groups
-![Resource Groups](screenshots/governance/RESOURCES GROUPS.png)
+![Azure resource groups list showing group names locations subscriptions and resource counts]![Resources group](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/governance/RESOURCES%20GROUPS.png)
 
 ### Auto Shutdown
-![Auto Shutdown](screenshots/governance/AUTO SHUTDOWN.png)
+![Azure virtual machine auto shutdown settings showing scheduled shutdown time timezone and notification options]![Auto-shotdown](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/governance/AUTO%20SHOUTDOWN.png)
 
 ---
 
