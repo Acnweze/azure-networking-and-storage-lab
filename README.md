@@ -3,18 +3,14 @@
 ## Overview
 This project demonstrates hands-on implementation of Microsoft Azure core services including networking, virtual machines, storage, and security management. It simulates a real-world cloud infrastructure environment where compute, networking, and storage resources are deployed and managed together.
 
----
-
 ## Project Objectives
 - Create and manage Azure Virtual Networks and subnets
 - Configure Network Security Groups (NSG) and security rules
 - Deploy and manage Virtual Machines
 - Perform VM scaling, tagging, and governance
-- Work with Azure Storage services (containers, file shares, disks)
+- Work with Azure Storage services such as containers, file shares, and disks
 - Manage access keys and SAS tokens
 - Apply cost and security best practices
-
----
 
 ## Networking
 
@@ -27,10 +23,8 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ### VNet Tags
 ![VNet Tags](screenshots/networking/VNET TAGS.png)
 
-### VNet Tags (Additional)
+### Additional VNet Tags
 ![VNet Tags 2](screenshots/networking/VNET TAGS (2).png)
-
----
 
 ## Network Security (NSG)
 
@@ -43,26 +37,22 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ### Inbound Rules
 ![Inbound Rules](screenshots/nsg/nsg-rules.png)
 
----
-
 ## Virtual Machines
 
 ### VM Overview
-![VM](screenshots/vm/vm.png)
+![VM Overview](screenshots/vm/vm.png)
 
 ### VM Details
 ![VM Details](screenshots/vm/vm-details.png)
 
-### VM Resize (Vertical Scaling)
+### VM Resize
 ![VM Resize](screenshots/vm/VM RESIZE.png)
 
-### VM Tags (Governance)
+### VM Tags
 ![VM Tags](screenshots/vm/VM TAGS.png)
 
-### VM Lock (Protection)
+### VM Lock
 ![VM Lock](screenshots/vm/VM LOCK.png)
-
----
 
 ## Storage Services
 
@@ -81,8 +71,6 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ### SAS Tokens
 ![SAS Tokens](screenshots/storage/SAS TOKENS.png)
 
----
-
 ## Governance and Cost Management
 
 ### Resource Groups
@@ -90,8 +78,6 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 
 ### Auto Shutdown
 ![Auto Shutdown](screenshots/governance/AUTO SHOUTDOWN.png)
-
----
 
 ## Skills Demonstrated
 - Azure Virtual Networking (VNets, Subnets, IP configuration)
@@ -101,9 +87,8 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 - Shared Access Signatures (SAS)
 - Access key management
 - Resource tagging and governance
-- Cost optimization (auto shutdown, VM resizing)
-
----
+- Cost optimization through auto shutdown and VM resizing
 
 ## Summary
 This project demonstrates practical experience in designing and managing Azure cloud infrastructure. It covers core services including networking, compute, storage, and security, reflecting real-world cloud engineering and DevOps practices.
+
