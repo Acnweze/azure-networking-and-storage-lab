@@ -40,7 +40,9 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ![Azure virtual machine overview panel displaying VM status size CPU memory and resource group details](screenshots/vm/vm.png)
 
 
-![Virtual machine lock settings screen showing resource lock type and lock notes for preventing accidental deletion or modification]![VM Lock](screenshots/vm/vm-lock.png)
+### VM Lock
+
+![VM Lock](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/vm/vm-lock.png)
 
 ---
 
@@ -67,6 +69,7 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ### Auto Shutdown
 
 ![Auto Shutdown](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/governance/AUTO%20SHOUTDOWN.png)
+
 ---
 
 ## Skills Demonstrated
