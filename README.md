@@ -6,94 +6,90 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ---
 
 ## Project Objectives
-- Create and manage Virtual Networks and subnets
-- Configure Network Security Groups (NSG)
+- Create and manage Azure Virtual Networks and subnets
+- Configure Network Security Groups (NSG) and security rules
 - Deploy and manage Virtual Machines
-- Perform VM scaling and configuration tasks
-- Implement storage services (containers, file shares, SAS tokens)
-- Apply governance using tags and locks
-- Practice Azure security and cost management
+- Perform VM scaling, tagging, and governance
+- Work with Azure Storage services (containers, file shares, disks)
+- Manage access keys and SAS tokens
+- Apply cost and security best practices
 
 ---
 
 ## Networking
 
 ### IP Configuration
-![IP Configuration](IP CONFIGURATION.png)
+![IP Configuration](screenshots/networking/IP CONFIGURATION.png)
+
+### Subnets
+![Subnets](screenshots/networking/subnets.png)
+
+### VNet Tags
+![VNet Tags](screenshots/networking/VNET TAGS.png)
+
+### VNet Tags (Additional)
+![VNet Tags 2](screenshots/networking/VNET TAGS (2).png)
 
 ---
 
 ## Network Security (NSG)
 
-Configured network security rules to control inbound traffic and secure subnet communication.
-
 ### NSG Management
-![NSG Management](NSG MANAGEMENT.png)
+![NSG Management](screenshots/nsg/NSG MANAGEMENT.png)
+
+### NSG Alternative Configuration
+![NSG Alternative](screenshots/nsg/NSG- MANAGEMENT.png)
 
 ### Inbound Rules
-![Inbound Rules](INBOUND RULES.png)
+![Inbound Rules](screenshots/nsg/nsg-rules.png)
 
 ---
 
 ## Virtual Machines
 
-Deployed and managed virtual machines, including scaling and governance configurations.
-
 ### VM Overview
-![VM](VIRTUAL MACHINE.png)
+![VM](screenshots/vm/vm.png)
 
 ### VM Details
-![VM Details](VIRTUAL MACHINE (2).png)
+![VM Details](screenshots/vm/vm-details.png)
 
 ### VM Resize (Vertical Scaling)
-![VM Resize](VM RESIZE.png)
+![VM Resize](screenshots/vm/VM RESIZE.png)
 
 ### VM Tags (Governance)
-![VM Tags](VM TAGS.png)
+![VM Tags](screenshots/vm/VM TAGS.png)
 
 ### VM Lock (Protection)
-![VM Lock](VM LOCK.png)
+![VM Lock](screenshots/vm/VM LOCK.png)
 
 ---
 
 ## Storage Services
 
-Configured Azure storage resources including containers, file shares, and access management.
-
-### Storage Containers
-![Containers](CONTAINERS.png)
+### Containers
+![Containers](screenshots/storage/containers.png)
 
 ### File Share
-![File Share](FILESHARE.png)
+![File Share](screenshots/storage/fileshare.png)
 
 ### Disks
-![Disks](DISKS.png)
+![Disks](screenshots/storage/DISKS.png)
 
 ### Access Keys
-![Access Keys](ACCESS KEYS.png)
+![Access Keys](screenshots/storage/ACCESS KEYS.png)
 
 ### SAS Tokens
-![SAS Tokens](SAS TOKENS.png)
+![SAS Tokens](screenshots/storage/SAS TOKENS.png)
 
 ---
 
-## Security & Networking Extras
+## Governance and Cost Management
 
 ### Resource Groups
-![Resource Groups](RESOURCES GROUPS.png)
-
-### Subnets
-![Subnets](SUBNETS.png)
-
-### VNet Tags
-![VNet Tags](VNET TAGS.png)
-
----
-
-## Automation & Cost Management
+![Resource Groups](screenshots/governance/RESOURCES GROUPS.png)
 
 ### Auto Shutdown
-![Auto Shutdown](AUTO SHOUTDOWN.png)
+![Auto Shutdown](screenshots/governance/AUTO SHOUTDOWN.png)
 
 ---
 
@@ -101,13 +97,13 @@ Configured Azure storage resources including containers, file shares, and access
 - Azure Virtual Networking (VNets, Subnets, IP configuration)
 - Network Security Groups (NSG)
 - Virtual Machine lifecycle management
-- Storage account configuration
-- Shared Access Signature (SAS)
+- Azure Storage services
+- Shared Access Signatures (SAS)
 - Access key management
+- Resource tagging and governance
 - Cost optimization (auto shutdown, VM resizing)
-- Resource governance (tags and locks)
 
 ---
 
 ## Summary
-This project demonstrates practical experience in designing and managing Azure cloud infrastructure. It covers core services including networking, compute, storage, and security, reflecting real-world cloud engineering practices.
+This project demonstrates practical experience in designing and managing Azure cloud infrastructure. It covers core services including networking, compute, storage, and security, reflecting real-world cloud engineering and DevOps practices.
