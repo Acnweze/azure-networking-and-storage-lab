@@ -39,31 +39,29 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ### VM Management
 ![VM Overview](screenshots/vm/vm.png)
 
-![VM Resize](screenshots/vm/VM RESIZE.png)
 
-![VM Tags](screenshots/vm/VM TAGS.png)
-
+### VM Lock
 ![VM Lock](screenshots/vm/VM LOCK.png)
 
 ---
 
 ## Storage Services
 
-### Storage Resources
+### Access Keys
 ![Access Keys](screenshots/storage/ACCESS KEYS.png)
 
+### SAS Tokens
 ![SAS Tokens](screenshots/storage/SAS TOKENS.png)
 
 ---
 
 ## Governance & Cost Management
 
-### Resource Management
+### Resource Groups
 ![Resource Groups](screenshots/governance/RESOURCES GROUPS.png)
 
+### Auto Shutdown
 ![Auto Shutdown](screenshots/governance/AUTO SHUTDOWN.png)
-
----
 
 ## Skills Demonstrated
 - Azure Virtual Networking (VNets, Subnets, IP configuration)
