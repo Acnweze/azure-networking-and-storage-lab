@@ -42,7 +42,9 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 
 ### VM Lock
 
-![VM Lock](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/vm/vm-lock.png)
+### VM Lock
+
+![VM Lock](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d63b6ccf2951894ea904a3610a63b8fb6b8d493c/screenshots/vm/virtual%20machine%20lock.png)
 
 ---
 
