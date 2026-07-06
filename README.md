@@ -41,17 +41,17 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 
 
 ### VM Lock
-![VM Lock](screenshots/vm/VM LOCK.png)
+![VM Lock](screenshots/vm/virtual machine.png)
 
 ---
 
 ## Storage Services
 
 ### Access Keys
-![Access Keys](screenshots/storage/ACCESS KEYS.png)
+![Access Keys](screenshots/storage/access keys.png)
 
 ### SAS Tokens
-![SAS Tokens](screenshots/storage/SAS TOKENS.png)
+![SAS Tokens](screenshots/storage/sas token.png)
 
 ---
 
@@ -62,6 +62,8 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 
 ### Auto Shutdown
 ![Auto Shutdown](screenshots/governance/AUTO SHUTDOWN.png)
+
+---
 
 ## Skills Demonstrated
 - Azure Virtual Networking (VNets, Subnets, IP configuration)
