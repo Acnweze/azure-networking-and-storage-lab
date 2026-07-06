@@ -40,27 +40,33 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ![Azure virtual machine overview panel displaying VM status size CPU memory and resource group details](screenshots/vm/vm.png)
 
 
-![Virtual machine lock settings screen showing resource lock type and lock notes for preventing accidental deletion or modification](![screenshots/vm/virtual machine lock.png](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/vm/virtual%20machine%20lock.png))
+![Virtual machine lock settings screen showing resource lock type and lock notes for preventing accidental deletion or modification]![VM Lock](screenshots/vm/vm-lock.png)
 
 ---
 
 ## Storage Services
 
-### Access Keys
-![Azure storage account access keys page showing key names primary and secondary key values and regenerate key options](![screenshots/storage/access keys.png](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/storage/access-keys.png))
+## Access Keys
 
-### SAS Tokens
-![Azure shared access signature token generation screen with expiration date permissions and token string fields](![screenshots/storage/sas token.png](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/storage/sas%20token.png))
+![Access Keys](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/storage/access-keys.png)
 
 ---
 
+### SAS Tokens
+
+![SAS Tokens](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/storage/sas%20token.png)
+
+---
 
 ### Resource Groups
-![Azure resource groups list showing group names locations subscriptions and resource counts]![Resources group](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/governance/RESOURCES%20GROUPS.png)
+
+![Resource Groups](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/governance/RESOURCES%20GROUPS.png)
+
+---
 
 ### Auto Shutdown
-![Azure virtual machine auto shutdown settings showing scheduled shutdown time timezone and notification options]![Auto-shotdown](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/governance/AUTO%20SHOUTDOWN.png)
 
+![Auto Shutdown](https://github.com/Acnweze/azure-networking-and-storage-lab/blob/d54c94dd5ae5d4ef07f7fe1300a8c8cb4cb72abd/screenshots/governance/AUTO%20SHOUTDOWN.png)
 ---
 
 ## Skills Demonstrated
