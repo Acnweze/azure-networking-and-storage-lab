@@ -33,42 +33,35 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ![Inbound Rules](screenshots/nsg/nsg-rules.png)
 
 ---
-
 ## Virtual Machines
 
-### VM Deployment & Management
-![VM Overview](screenshots/vm/vm.png)
-
-![VM Details](screenshots/vm/vm-details.png)
-
+### VM Resize
 ![VM Resize](screenshots/vm/VM RESIZE.png)
 
+### VM Tags
 ![VM Tags](screenshots/vm/VM TAGS.png)
 
+### VM Lock
 ![VM Lock](screenshots/vm/VM LOCK.png)
 
 ---
 
 ## Storage Services
 
-### Storage Resources
-![Containers](screenshots/storage/containers.png)
-
-![File Share](screenshots/storage/fileshare.png)
-
-![Disks](screenshots/storage/DISKS.png)
-
+### Access Keys
 ![Access Keys](screenshots/storage/ACCESS KEYS.png)
 
+### SAS Tokens
 ![SAS Tokens](screenshots/storage/SAS TOKENS.png)
 
 ---
 
-## Governance & Cost Management
+## Governance
 
-### Resource Management
+### Resource Groups
 ![Resource Groups](screenshots/governance/RESOURCES GROUPS.png)
 
+### Auto Shutdown
 ![Auto Shutdown](screenshots/governance/AUTO SHUTDOWN.png)
 
 ---
