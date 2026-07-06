@@ -61,29 +61,41 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 
 ![Subnets](SUBNETS.png)
 
+## IP Configuration
 ![IP Configuration](IP CONFIGURATION.png)
 
 ---
 
-### Network Security (NSG)
+## Network Security (NSG)
+
+### NSG Management
 ![NSG Management](NSG MANAGEMENT.png)
 
+### NSG Alternative
 ![NSG Alternative](NSG- MANAGEMENT.png)
 
+### Inbound Rules
 ![Inbound Rules](INBOUND RULES.png)
 
 ---
 
-### Virtual Machines
+## Virtual Machines
+
+### VM Overview
 ![VM](VIRTUAL MACHINE.png)
 
+### VM Details
 ![VM Details](VIRTUAL MACHINE (2).png)
 
+### VM Resize
 ![VM Resize](VM RESIZE.png)
 
+### VM Tags
 ![VM Tags](VM TAGS.png)
 
+### VM Lock
 ![VM Lock](VM LOCK.png)
+
 
 ---
 
