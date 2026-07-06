@@ -1,78 +1,34 @@
 # Azure Networking and Storage Lab
 
 ## Overview
-This project demonstrates hands-on implementation of Microsoft Azure core services including networking, virtual machines, storage, and security management. The goal is to simulate real-world cloud infrastructure setup and administration.
+This project demonstrates hands-on implementation of Microsoft Azure core services including networking, virtual machines, storage, and security management. It simulates a real-world cloud infrastructure environment where compute, networking, and storage resources are deployed and managed together.
 
 ---
 
 ## Project Objectives
-- Build and configure Azure Virtual Networks and subnets
-- Implement Network Security Groups (NSG) for traffic control
-- Manage virtual machines (create, scale, secure, and configure)
-- Work with Azure Storage services (containers and file shares)
+- Create and manage Virtual Networks and subnets
+- Configure Network Security Groups (NSG)
+- Deploy and manage Virtual Machines
+- Perform VM scaling and configuration tasks
+- Implement storage services (containers, file shares, SAS tokens)
 - Apply governance using tags and locks
-- Practice cost and security best practices in Azure
+- Practice Azure security and cost management
 
 ---
 
-## What I Built
+## Networking
 
-### Networking
-- Created and configured Virtual Networks (VNet)
-- Created subnets within an existing VNet
-- Updated IP configurations for virtual machines
-- Applied VNet tagging for resource organization
-
----
-
-### Network Security
-- Created and managed Network Security Groups (NSG)
-- Configured inbound security rules
-- Associated NSG with subnets
-- Managed NSG configurations for controlled access
-
----
-
-### Virtual Machines
-- Created and managed Azure Virtual Machines
-- Performed vertical scaling (VM resizing)
-- Attached and managed data disks
-- Configured automatic shutdown for cost control
-- Applied tags and resource locks for governance
-
----
-
-### Storage Services
-- Created storage accounts and containers
-- Configured Azure File Share
-- Generated and managed SAS (Shared Access Signature) tokens
-- Rotated storage access keys
-- Managed data disks attached to VMs
-
----
-
-## Screenshots
-
-### Networking Setup
-![Resource Groups](RESOURCES GROUPS.png)
-
-![VNet Tags](VNET TAGS.png)
-![VNet Tags 2](VNET TAGS (2).png)
-
-![Subnets](SUBNETS.png)
-
-## IP Configuration
+### IP Configuration
 ![IP Configuration](IP CONFIGURATION.png)
 
 ---
 
 ## Network Security (NSG)
 
+Configured network security rules to control inbound traffic and secure subnet communication.
+
 ### NSG Management
 ![NSG Management](NSG MANAGEMENT.png)
-
-### NSG Alternative
-![NSG Alternative](NSG- MANAGEMENT.png)
 
 ### Inbound Rules
 ![Inbound Rules](INBOUND RULES.png)
@@ -81,38 +37,62 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 
 ## Virtual Machines
 
+Deployed and managed virtual machines, including scaling and governance configurations.
+
 ### VM Overview
 ![VM](VIRTUAL MACHINE.png)
 
 ### VM Details
 ![VM Details](VIRTUAL MACHINE (2).png)
 
-### VM Resize
+### VM Resize (Vertical Scaling)
 ![VM Resize](VM RESIZE.png)
 
-### VM Tags
+### VM Tags (Governance)
 ![VM Tags](VM TAGS.png)
 
-### VM Lock
+### VM Lock (Protection)
 ![VM Lock](VM LOCK.png)
-
 
 ---
 
-### Storage
+## Storage Services
+
+Configured Azure storage resources including containers, file shares, and access management.
+
+### Storage Containers
 ![Containers](CONTAINERS.png)
 
+### File Share
 ![File Share](FILESHARE.png)
 
+### Disks
 ![Disks](DISKS.png)
 
+### Access Keys
 ![Access Keys](ACCESS KEYS.png)
 
+### SAS Tokens
 ![SAS Tokens](SAS TOKENS.png)
 
 ---
 
-### Automation
+## Security & Networking Extras
+
+### Resource Groups
+![Resource Groups](RESOURCES GROUPS.png)
+
+### Subnets
+![Subnets](SUBNETS.png)
+
+### VNet Tags
+![VNet Tags](VNET TAGS.png)
+
+---
+
+## Automation & Cost Management
+
+### Auto Shutdown
 ![Auto Shutdown](AUTO SHOUTDOWN.png)
 
 ---
@@ -122,13 +102,12 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 - Network Security Groups (NSG)
 - Virtual Machine lifecycle management
 - Storage account configuration
-- Access control and security (SAS, keys, NSG rules)
-- Cost optimization (auto-shutdown, VM resizing)
+- Shared Access Signature (SAS)
+- Access key management
+- Cost optimization (auto shutdown, VM resizing)
 - Resource governance (tags and locks)
 
 ---
 
 ## Summary
-This lab represents a real-world Azure environment where compute, networking, storage, and security services are designed and managed together. It demonstrates practical cloud engineering skills aligned with enterprise infrastructure operations.
-
----
+This project demonstrates practical experience in designing and managing Azure cloud infrastructure. It covers core services including networking, compute, storage, and security, reflecting real-world cloud engineering practices.
