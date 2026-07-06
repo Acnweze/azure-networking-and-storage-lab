@@ -40,8 +40,7 @@ This project demonstrates hands-on implementation of Microsoft Azure core servic
 ![VM Overview](screenshots/vm/vm.png)
 
 
-### VM Lock
-![VM Lock](screenshots/vm/virtual machine.png)
+![VM Lock](screenshots/vm/VM LOCK.png)
 
 ---
 
